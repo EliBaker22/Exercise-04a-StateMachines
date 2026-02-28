@@ -1,7 +1,13 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# Project Name
+Excercise-04a-StateMachines and Febraury 28, 2026
+
+Description
+Moving, Jumping, Wall Jumoping, and Animation
 
 ## Implementation
-Which features you included.
+cube moving and jumping
 
 ## References
 
@@ -12,4 +18,6 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Eli Baker
+
+EliBaker22
